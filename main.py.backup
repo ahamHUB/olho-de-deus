@@ -1,6 +1,6 @@
 """
 Olho de Deus v3.0 — AI-Powered Pentest Framework
-Eduardo Felype
+Lcst_henrique
 
 Uso: python main.py http://target.com [--shodan KEY] [--vt KEY]
 """
