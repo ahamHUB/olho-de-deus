@@ -1,5 +1,5 @@
 # 👁 Olho de Deus v3.0
-### AI-Powered Pentest Framework | Eduardo Felype
+### AI-Powered Pentest Framework | Lcst_henrique
 
 > ⚠️ **USO EXCLUSIVO EM ALVOS AUTORIZADOS.**
 
